@@ -1,0 +1,447 @@
+C:\Users\Owner\Desktop\הפרויקט חלק א\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\הפרויקט חלק א\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BL.dll
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BL.pdb
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BE.dll
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DAL.dll
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DS.exe
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BE.pdb
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DAL.pdb
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DS.pdb
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DS.exe.config
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.dll
+C:\Users\ekelner\Downloads\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.pdb
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BL.dll
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BL.pdb
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BE.dll
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DAL.dll
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DS.exe
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BE.pdb
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DAL.pdb
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DS.pdb
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DS.exe.config
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.csproj.CopyComplete
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.dll
+E:\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.pdb
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BL.dll
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BL.pdb
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BE.dll
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DAL.dll
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DS.exe
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BE.pdb
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DAL.pdb
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DS.pdb
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DS.exe.config
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.dll
+C:\Users\Owner\Desktop\הפרויקט חלק א\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.pdb
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BL.dll
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BL.pdb
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BE.dll
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DAL.dll
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DS.exe
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\BE.pdb
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DAL.pdb
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DS.pdb
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\bin\Debug\DS.exe.config
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.csproj.CopyComplete
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.dll
+E:\12-01\הפרויקט חלק א\הפרויקט חלק א\BL\obj\Debug\BL.pdb
+E:\13-01\הפרויקט\הפרויקט\BL\bin\Debug\BL.dll
+E:\13-01\הפרויקט\הפרויקט\BL\bin\Debug\BL.pdb
+E:\13-01\הפרויקט\הפרויקט\BL\bin\Debug\BE.dll
+E:\13-01\הפרויקט\הפרויקט\BL\bin\Debug\DAL.dll
+E:\13-01\הפרויקט\הפרויקט\BL\bin\Debug\DS.exe
+E:\13-01\הפרויקט\הפרויקט\BL\bin\Debug\BE.pdb
+E:\13-01\הפרויקט\הפרויקט\BL\bin\Debug\DAL.pdb
+E:\13-01\הפרויקט\הפרויקט\BL\bin\Debug\DS.pdb
+E:\13-01\הפרויקט\הפרויקט\BL\obj\Debug\BL.dll
+E:\13-01\הפרויקט\הפרויקט\BL\obj\Debug\BL.pdb
+E:\13-01\הפרויקט\הפרויקט\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\הפרויקט\BL\bin\Debug\BL.dll
+C:\Users\Owner\Desktop\הפרויקט\BL\bin\Debug\BL.pdb
+C:\Users\Owner\Desktop\הפרויקט\BL\bin\Debug\BE.dll
+C:\Users\Owner\Desktop\הפרויקט\BL\bin\Debug\DAL.dll
+C:\Users\Owner\Desktop\הפרויקט\BL\bin\Debug\DS.exe
+C:\Users\Owner\Desktop\הפרויקט\BL\bin\Debug\BE.pdb
+C:\Users\Owner\Desktop\הפרויקט\BL\bin\Debug\DAL.pdb
+C:\Users\Owner\Desktop\הפרויקט\BL\bin\Debug\DS.pdb
+C:\Users\Owner\Desktop\הפרויקט\BL\bin\Debug\DS.exe.config
+C:\Users\Owner\Desktop\הפרויקט\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\הפרויקט\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\הפרויקט\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Owner\Desktop\הפרויקט\BL\obj\Debug\BL.dll
+C:\Users\Owner\Desktop\הפרויקט\BL\obj\Debug\BL.pdb
+D:\19-01\BL\bin\Debug\BL.dll
+D:\19-01\BL\bin\Debug\BL.pdb
+D:\19-01\BL\bin\Debug\BE.dll
+D:\19-01\BL\bin\Debug\DAL.dll
+D:\19-01\BL\bin\Debug\DS.exe
+D:\19-01\BL\bin\Debug\BE.pdb
+D:\19-01\BL\bin\Debug\DAL.pdb
+D:\19-01\BL\bin\Debug\DS.pdb
+D:\19-01\BL\bin\Debug\DS.exe.config
+D:\19-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\19-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\19-01\BL\obj\Debug\BL.csproj.CopyComplete
+D:\19-01\BL\obj\Debug\BL.dll
+D:\19-01\BL\obj\Debug\BL.pdb
+C:\Users\rabloch\Desktop\19-01\BL\bin\Debug\BL.dll
+C:\Users\rabloch\Desktop\19-01\BL\bin\Debug\BL.pdb
+C:\Users\rabloch\Desktop\19-01\BL\bin\Debug\BE.dll
+C:\Users\rabloch\Desktop\19-01\BL\bin\Debug\DAL.dll
+C:\Users\rabloch\Desktop\19-01\BL\bin\Debug\DS.exe
+C:\Users\rabloch\Desktop\19-01\BL\bin\Debug\BE.pdb
+C:\Users\rabloch\Desktop\19-01\BL\bin\Debug\DAL.pdb
+C:\Users\rabloch\Desktop\19-01\BL\bin\Debug\DS.pdb
+C:\Users\rabloch\Desktop\19-01\BL\bin\Debug\DS.exe.config
+C:\Users\rabloch\Desktop\19-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\rabloch\Desktop\19-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\rabloch\Desktop\19-01\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\rabloch\Desktop\19-01\BL\obj\Debug\BL.dll
+C:\Users\rabloch\Desktop\19-01\BL\obj\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\bin\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\bin\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\bin\Debug\BE.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\bin\Debug\DAL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\bin\Debug\DS.exe
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\bin\Debug\BE.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\bin\Debug\DAL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\bin\Debug\DS.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\bin\Debug\DS.exe.config
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\obj\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\21-01\21-01\BL\obj\Debug\BL.pdb
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BL.dll
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BL.pdb
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BE.dll
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DAL.dll
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DS.exe
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BE.pdb
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DAL.pdb
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DS.pdb
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DS.exe.config
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.dll
+C:\Users\Owner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.pdb
+E:\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BL.dll
+E:\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BL.pdb
+E:\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BE.dll
+E:\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DAL.dll
+E:\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DS.exe
+E:\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BE.pdb
+E:\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DAL.pdb
+E:\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DS.pdb
+E:\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DS.exe.config
+E:\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.csproj.CopyComplete
+E:\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.dll
+E:\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.pdb
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BL.dll
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BL.pdb
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BE.dll
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DAL.dll
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DS.exe
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BE.pdb
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DAL.pdb
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DS.pdb
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DS.exe.config
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.dll
+C:\Users\ekelner\Desktop\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.pdb
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.dll
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.pdb
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BL.dll
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BL.pdb
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BE.dll
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DAL.dll
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DS.exe
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\BE.pdb
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DAL.pdb
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DS.pdb
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\bin\Debug\DS.exe.config
+C:\Users\Owner\Desktop\the last\22-1 לילה\22-1 לילה\21-01\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\bin\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\bin\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\bin\Debug\BE.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\bin\Debug\DAL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\bin\Debug\DS.exe
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\bin\Debug\BE.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\bin\Debug\DAL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\bin\Debug\DS.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\bin\Debug\DS.exe.config
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\obj\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01\26-01\BL\obj\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe.config
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.pdb
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.dll
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.pdb
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.dll
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.dll
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.pdb
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.pdb
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.pdb
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe.config
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.dll
+C:\Users\Owner\Desktop\26-01 ערב\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe.config
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.pdb
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.dll
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.pdb
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.dll
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.dll
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.pdb
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.pdb
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.pdb
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe.config
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.dll
+C:\Users\rabloch\Downloads\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.pdb
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.dll
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.pdb
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.dll
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.pdb
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.dll
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.dll
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.pdb
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.pdb
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.pdb
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe.config
+C:\Users\ekelner\Downloads\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CopyComplete
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.dll
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.pdb
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.dll
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.dll
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.pdb
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.pdb
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.pdb
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe.config
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CopyComplete
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.dll
+D:\27-1 לילה\27-1 בוקר\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\BE.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DAL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\bin\Debug\DS.exe.config
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ב\27-01לילהה\27-01לילהה\26-1 לילה\ערב 26-01 ממוזג\ערב 26-01 ממוזג\26-01 צהריים\26-01\26-01\BL\obj\Debug\BL.pdb
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\bin\Debug\BL.dll
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\bin\Debug\BL.pdb
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\bin\Debug\BE.dll
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\bin\Debug\DAL.dll
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\bin\Debug\DS.exe
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\bin\Debug\BE.pdb
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\bin\Debug\DAL.pdb
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\bin\Debug\DS.pdb
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\bin\Debug\DS.exe.config
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\obj\Debug\BL.dll
+C:\Users\Owner\Desktop\חלק שני בעז''ה\BL\obj\Debug\BL.pdb
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BL.dll
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BL.pdb
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BE.dll
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DAL.dll
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.exe
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BE.pdb
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DAL.pdb
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.pdb
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.exe.config
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.dll
+C:\Users\ekelner\Downloads\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.pdb
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BL.dll
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BL.pdb
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BE.dll
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DAL.dll
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.exe
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BE.pdb
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DAL.pdb
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.pdb
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.exe.config
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.dll
+C:\Users\rabloch\Downloads\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.pdb
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BL.dll
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BL.pdb
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BE.dll
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DAL.dll
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.exe
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BE.pdb
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DAL.pdb
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.pdb
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.exe.config
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CopyComplete
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.dll
+Z:\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.pdb
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BL.dll
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BL.pdb
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BE.dll
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DAL.dll
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.exe
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BE.pdb
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DAL.pdb
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.pdb
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.exe.config
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.dll
+C:\Users\Owner\Desktop\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BE.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DAL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.exe
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BE.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DAL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.exe.config
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.pdb
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BL.dll
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BL.pdb
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BE.dll
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DAL.dll
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.exe
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\BE.pdb
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DAL.pdb
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.pdb
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\bin\Debug\DS.exe.config
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.dll
+C:\Users\Owner\Desktop\09-02\נסי את זה\נסי את זה\semi part 3\semi part 3\semi part 3\חלק שני\חלק שני בעזה\חלק שני בעז''ה\BL\obj\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\bin\Debug\BL.dll
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\bin\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\bin\Debug\BE.dll
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\bin\Debug\DAL.dll
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\bin\Debug\DS.exe
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\bin\Debug\BE.pdb
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\bin\Debug\DAL.pdb
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\bin\Debug\DS.pdb
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\bin\Debug\DS.exe.config
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.dll
+C:\Users\אפרת\Desktop\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\bin\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\bin\Debug\BL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\bin\Debug\BE.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\bin\Debug\DAL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\bin\Debug\DS.exe
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\bin\Debug\BE.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\bin\Debug\DAL.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\bin\Debug\DS.pdb
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\bin\Debug\DS.exe.config
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.dll
+C:\Users\אפרת\Desktop\שנה ב\מיני פרוייקט חלונות\פרוייקט\ג\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.pdb
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\BL.dll
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\BL.pdb
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\BE.dll
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\DAL.dll
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\DS.exe
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\BE.pdb
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\DAL.pdb
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\DS.pdb
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\DS.exe.config
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.dll
+C:\Users\Owner\Desktop\09-02 ערב\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.pdb
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\BL.dll
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\BL.pdb
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\BE.dll
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\DS.exe
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\BE.pdb
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\DS.pdb
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\bin\Debug\DS.exe.config
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.dll
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.pdb
+C:\Users\user\Desktop\שנה ב\סמסטר א\מיני פרוייקט במערכת חלונות\סופי השבח לקל\09-02 ערב\שהחיינו (2)\שהחיינו\BL\obj\Debug\BL.csproj.AssemblyReference.cache
