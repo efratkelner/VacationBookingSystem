@@ -1,0 +1,98 @@
+﻿<Window x:Class="PLWPF.host"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="Vacation4U" Height="450" Width="800" Icon="/temps/icon.png" SizeToContent="WidthAndHeight" WindowState="Maximized"  FlowDirection="RightToLeft" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="temps/unnamed (4).png"/>
+        </Grid.Background>
+        <Button x:Name="btnUpdate" Content="עדכון" HorizontalAlignment="Left" Height="74" Margin="646,214,0,0" VerticalAlignment="Top" Width="115" FontWeight="Bold" FontSize="16" Click="BtnUpdate_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.233"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF6A6A6A" Offset="0.86"/>
+                    <GradientStop Color="Black"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnShow" Content="הצג הכל" HorizontalAlignment="Left" Height="70" Margin="646,308,0,0" VerticalAlignment="Top" Width="115" Click="btnShow_Click" FontWeight="Bold" FontSize="16">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.233"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF6A6A6A" Offset="0.86"/>
+                    <GradientStop Color="Black"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+        <Button x:Name="btnAdd" Content="הוספה" HorizontalAlignment="Left" Height="68" Margin="646,33,0,0" VerticalAlignment="Top" Width="115" FontWeight="Bold" FontSize="16" Click="btnAdd_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.233"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF6A6A6A" Offset="0.86"/>
+                    <GradientStop Color="Black"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnDelete" Content="מחיקה" HorizontalAlignment="Left" Height="64" Margin="646,124,0,0" VerticalAlignment="Top" Width="115" FontWeight="Bold" FontSize="16" Click="btnDelete_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.233"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF6A6A6A" Offset="0.86"/>
+                    <GradientStop Color="Black"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+
+        <Button x:Name="btnOtherOptions" Content="חיפוש בקשות רלוונטיות" HorizontalAlignment="Left" Height="41" Margin="10,337,0,0" VerticalAlignment="Top" Width="164" FontWeight="Bold" Click="btnOtherOptions_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.233"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF6A6A6A" Offset="0.86"/>
+                    <GradientStop Color="Black"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label Content="בס&quot;ד" HorizontalAlignment="Left" Height="37" VerticalAlignment="Top" Width="48"/>
+        <Button Name="btnSet" Content="עדכון פרטים אישיים"  FontWeight="Black" HorizontalAlignment="Left" Height="36" Margin="10,284,0,0" VerticalAlignment="Top" Width="164" Click="Button_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.233"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF6A6A6A" Offset="0.86"/>
+                    <GradientStop Color="Black"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Name="txbHi"  Height="177" Margin="119,33,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="470" FontWeight="Bold" FontSize="48" Foreground="#FF07E8F7"/>
+        <Button x:Name="btnOrdersStatus" Content="שינוי סטטוס הזמנות" HorizontalAlignment="Left" Height="36" Margin="10,234,0,0" VerticalAlignment="Top" Width="164" FontWeight="Bold" Click="BtnOrdersStatus_Click"/>
+        <ComboBox x:Name="cmbOrders" HorizontalAlignment="Left" Height="36" Margin="238,284,0,0" VerticalAlignment="Top" Width="276" SelectionChanged="CmbOrders_SelectionChanged"/>
+        <ComboBox x:Name="cmbStatus" HorizontalAlignment="Left" Height="35" Margin="238,355,0,0" VerticalAlignment="Top" Width="278" SelectionChanged="CmbStatus_SelectionChanged"/>
+        <Label x:Name="lblOrders" Content=":הזמנה" HorizontalAlignment="Left" Height="40" Margin="214,256,0,0" VerticalAlignment="Top" Width="161" Foreground="#FF07E8F7" FontWeight="Bold" FontSize="18"/>
+        <Label x:Name="lblStatus" Content="סטטוס" HorizontalAlignment="Left" Height="30" Margin="214,320,0,0" VerticalAlignment="Top" Width="146" FontWeight="Bold" FontSize="18" Foreground="#FF07E8F7"/>
+        <TextBlock x:Name="tbStatus" HorizontalAlignment="Left" Height="35" Margin="296,355,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="190"/>
+        <Button x:Name="btnOK" Content="אישור" HorizontalAlignment="Left" Height="25" Margin="365,325,0,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.556,-0.219" FontWeight="Bold" Click="BtnOK_Click"/>
+    </Grid>
+</Window>

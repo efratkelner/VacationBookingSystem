@@ -1,0 +1,51 @@
+﻿<Window x:Class="PLWPF.GuestEntrance"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="אבטחה" Height="450" Width="350" Icon="/temps/icon.png">
+    <Grid RenderTransformOrigin="0.974,0.492" Margin="0,0,0,-142">
+        <Grid.Background>
+            <ImageBrush ImageSource="temps/unnamed.png" Stretch="None"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="191*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnEnter" Content="כניסה" HorizontalAlignment="Left" Height="54" Margin="73,317,0,0" VerticalAlignment="Top" Width="217" Grid.Column="1" FontWeight="Bold" FontSize="24" Click="BtnEnter_Click" IsEnabled="{Binding ElementName=cbRobotCheck, Path=IsChecked}">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.233"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF6A6A6A" Offset="0.86"/>
+                    <GradientStop Color="Black"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblUserMail" Content="הכנס מייל" HorizontalAlignment="Left" Height="62" Margin="125,71,0,0" VerticalAlignment="Top" Width="208" Grid.Column="1" FontWeight="Bold" FontSize="16"/>
+        <CheckBox x:Name="cbRobotCheck" Grid.ColumnSpan="2" Content="אני לא רובוט" HorizontalAlignment="Left" Height="34" Margin="29,278,0,0" VerticalAlignment="Top" Width="133" FontWeight="Bold">
+            <CheckBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.84"/>
+                </LinearGradientBrush>
+            </CheckBox.Background>
+        </CheckBox>
+        <TextBox x:Name="txtUserMail" HorizontalAlignment="Left" Height="49" Margin="55,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="213" Grid.Column="1" RenderTransformOrigin="0.5,0.5" TextChanged="txtUserMail_TextChanged">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.82"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <Label Content="בס&quot;ד" HorizontalAlignment="Left" Height="25" Margin="362,0,-410,0" VerticalAlignment="Top" Width="58" Grid.Column="2"/>
+        <Button x:Name="btnNewGuest" Grid.ColumnSpan="2" Content="אני לקוח חדש" HorizontalAlignment="Left" Height="40" Margin="170,265,0,0" VerticalAlignment="Top" Width="153" Click="btnNewGuest_Click" FontWeight="Bold" BorderBrush="#FF53ACA8" IsEnabled="{Binding ElementName=cbRobotCheck, Path=IsChecked}" Background="#FF64C9A4"/>
+
+    </Grid>
+</Window>

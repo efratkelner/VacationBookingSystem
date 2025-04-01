@@ -1,0 +1,37 @@
+﻿<Window x:Class="PLWPF.AllHosts"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="AllHosts" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="temps/unnamed.png"/>
+        </Grid.Background>
+        <ListView ItemsSource="{Binding}" HorizontalAlignment="Left" FlowDirection="RightToLeft" Name="lvHosts" Height="345" Margin="10,50,0,0" VerticalAlignment="Top" Width="772" SelectionChanged="ListView_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="אישור גבייה">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <CheckBox IsEnabled="False"  IsChecked="{Binding CollectionClearance}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="מספר זהות" Width="130" DisplayMemberBinding="{Binding HostKey}" />
+                    <GridViewColumn Header="שם פרטי" Width="150" DisplayMemberBinding="{Binding PrivateName}" />
+                    <GridViewColumn Header="שם משפחה" Width="150" DisplayMemberBinding="{Binding FamilyName}" />
+                    <GridViewColumn Header="טלפון" Width="150" DisplayMemberBinding="{Binding PhoneNumber}" />
+                    <GridViewColumn Header="מייל" Width="180" DisplayMemberBinding="{Binding MailAddress}"/>
+                    <GridViewColumn Header="חשבון בנק" Width="130" DisplayMemberBinding="{Binding BankAccountNumber}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="מארחים:" FlowDirection="RightToLeft" HorizontalAlignment="Left" Height="35" Margin="276,10,0,0" VerticalAlignment="Top" Width="458" FontWeight="Bold" FontSize="16" Foreground="#FF1121C1"/>
+        <ComboBox Name="cbxSort" HorizontalAlignment="Left" Height="22" Margin="10,23,0,0" Text="מיין לפי" VerticalAlignment="Top" Width="138" SelectionChanged="CbxSort_SelectionChanged" />
+        <TextBlock Name="txbSortByLable" HorizontalAlignment="Left" Height="19" Margin="44,26,0,0" TextWrapping="Wrap" Text="מיין לפי" FontWeight="Medium" VerticalAlignment="Top" Width="52"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,33 @@
+﻿<Window x:Class="PLWPF.AddhOstingUnit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="הוספת יחידת אירוח" Height="450" Width="800" Icon="/temps/icon.png" SizeToContent="WidthAndHeight" WindowState="Maximized" FlowDirection="RightToLeft" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip">
+    <Grid Margin="0,0,-6.4,0">
+        <Grid.Background>
+            <ImageBrush ImageSource="temps/unnamed.png"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="68*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="321*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="בס&quot;ד" HorizontalAlignment="Left" Height="29" Margin="10,10,0,0" VerticalAlignment="Top" Width="54"/>
+        <Label Content="מחיר לילה לילד" HorizontalAlignment="Left" Height="38" Margin="385,99,0,0" VerticalAlignment="Top" Width="147" Grid.Column="2"/>
+        <Label Content="מחיר ללילה למבוגר" HorizontalAlignment="Left" Height="43" Margin="385,137,0,0" VerticalAlignment="Top" Width="133" Grid.Column="2"/>
+        <TextBox Name="txbPriceForChild" HorizontalAlignment="Left" Height="38" Margin="292,99,0,0" TextWrapping="Wrap" Text="{Binding PriceForChild, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="67" Grid.Column="2"/>
+        <TextBox Name="txbPriceForAdult" HorizontalAlignment="Left" Height="43" Margin="292,137,0,0" TextWrapping="Wrap" Text="{Binding PriceForAdult, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="67" Grid.Column="2"/>
+        <Label Content="שם יחידת האירוח" HorizontalAlignment="Left" Height="31" Margin="385,68,0,0" VerticalAlignment="Top" Width="133" Grid.Column="2"/>
+        <TextBox Name="txbHostingUnitName" HorizontalAlignment="Left" Height="38" Margin="292,56,0,0" TextWrapping="Wrap" Text="{Binding HostingUnitName, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="67" Grid.Column="2"/>
+        <ComboBox Name="cmbArea" Text="{Binding Enums.Area, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true}" HorizontalAlignment="Left" Height="29" Margin="292,199,0,0" VerticalAlignment="Top" Width="213" SelectionChanged="cboxArea_SelectionChanged" Grid.Column="2" AutomationProperties.HelpText="אזור" MouseEnter="CmbArea_MouseEnter"/>
+        <Button  Name="btnAdd"  Content="הוסף" HorizontalAlignment="Left" Height="53" Margin="359,332,0,0" VerticalAlignment="Top" Width="250" Click="btnAdd_Click" Grid.Column="2" FontWeight="Bold">
+            <Button.Background>
+                <ImageBrush ImageSource="temps/unnamed.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

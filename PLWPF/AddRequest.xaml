@@ -1,0 +1,78 @@
+﻿<Window x:Class="PLWPF.AddRequest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="הוספת בקשת ארוח" Height="528.804" Width="800" Icon="/temps/icon.png" SizeToContent="WidthAndHeight"  WindowState="Maximized" FlowDirection="LeftToRight" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip">
+    <Grid Margin="0,0,0,6">
+        <Grid.Background>
+            <ImageBrush ImageSource="temps/unnamed.png"/>
+        </Grid.Background>
+        <Label Content="שם פרטי" HorizontalAlignment="Left" Height="26" Margin="651,83,0,0" VerticalAlignment="Top" Width="117"/>
+        <Label Content="בס&quot;ד" HorizontalAlignment="Left" Height="29" Margin="728,10,0,0" VerticalAlignment="Top" Width="54"/>
+        <Label Content="שם משפחה" HorizontalAlignment="Left" Height="32" Margin="651,114,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="מייל" HorizontalAlignment="Left" Height="24" Margin="651,142,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="1.074,0.676"/>
+        <Label Content="תחילת הנופש" HorizontalAlignment="Left" Height="24" Margin="651,183,-18,0" VerticalAlignment="Top" Width="159"/>
+        <TextBox  Name="txbPrivateName" HorizontalAlignment="Left" Height="26" Margin="506,83,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="115" FontStyle="Italic"/>
+        <TextBox Name="txbFamilyName" HorizontalAlignment="Left" Height="21" Margin="506,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="115" FontStyle="Italic"/>
+        <TextBox Name="txbMail" HorizontalAlignment="Left" Height="24" Margin="506,151,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="115"  FontStyle="Italic"/>
+        <Label Content="סיום הנופש" HorizontalAlignment="Left" Height="32" Margin="651,211,-1,0" VerticalAlignment="Top" Width="142" />
+        <ComboBox x:Name="cmbArea" Text="{Binding Area}" HorizontalAlignment="Left" Height="29" Margin="506,246,0,0" VerticalAlignment="Top" Width="115"  AutomationProperties.HelpText="אזור" />
+        <DatePicker x:Name="dateOfEntry" HorizontalAlignment="Left" Height="24" Margin="506,181,0,0" VerticalAlignment="Top" Width="115" Text="בחר" DisplayDateStart="2020-01-01" DisplayDateEnd="2020-12-31" FontSize="14.667">
+            <DatePicker.ContextMenu>
+                <ContextMenu/>
+            </DatePicker.ContextMenu>
+        </DatePicker>
+        <Label x:Name="label" Content="אזור נופש" HorizontalAlignment="Left" Height="24" Margin="651,246,0,0" VerticalAlignment="Top" Width="78"/>
+        <TextBox x:Name="txbCity" HorizontalAlignment="Left" Height="27" Margin="506,286,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="115"/>
+        <TextBox x:Name="txbAdults" HorizontalAlignment="Left" Height="27" Margin="506,366,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="115"/>
+        <TextBox x:Name="txbChildren" HorizontalAlignment="Left" Height="20" Margin="506,398,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="115"/>
+        <ComboBox x:Name="cmbType" Text="{Binding Type}" HorizontalAlignment="Left" Height="29" Margin="506,323,0,0" VerticalAlignment="Top" Width="115"  AutomationProperties.HelpText="סוג" />
+        <Label x:Name="label1" Content="עיר" HorizontalAlignment="Left" Height="31" Margin="651,286,0,0" VerticalAlignment="Top" Width="62"/>
+        <Label x:Name="label2" Content="סוג מקום אירוח" HorizontalAlignment="Left" Height="23" Margin="648,323,0,0" VerticalAlignment="Top" Width="103"/>
+        <Label x:Name="label3" Content="מספר מבוגרים" HorizontalAlignment="Left" Height="28" Margin="651,355,0,0" VerticalAlignment="Top" Width="107"/>
+        <Label x:Name="label4" Content="מספר ילדים" HorizontalAlignment="Left" Height="29" Margin="652,389,0,0" VerticalAlignment="Top" Width="77"/>
+        <CheckBox  x:Name="cbBreakfast"  Content="ארוחת בוקר" HorizontalAlignment="Left" Height="26" Margin="68,59,0,0" VerticalAlignment="Top" Width="102"/>
+        <CheckBox x:Name="cbCradle" Content="מיטת תינוק" HorizontalAlignment="Left" Height="24" Margin="68,117,0,0" VerticalAlignment="Top" Width="102"/>
+        <CheckBox x:Name="cbWiFi" Content="WIFI" HorizontalAlignment="Left" Height="32" Margin="68,175,0,0" VerticalAlignment="Top" Width="87"/>
+        <ComboBox x:Name="cmbPool" Text="{Binding Pool}" HorizontalAlignment="Left" Height="29" Margin="68,228,0,0" VerticalAlignment="Top" Width="115"  AutomationProperties.HelpText="בריכה"/>
+        <ComboBox x:Name="cmbJacuzzi" Text="{Binding Jacuzzi}" HorizontalAlignment="Left" Height="29" Margin="67,262,0,0" VerticalAlignment="Top" Width="115" AutomationProperties.HelpText="ג'קוזי" />
+        <ComboBox x:Name="cmbGarden" Text="{Binding Garden}" HorizontalAlignment="Left" Height="29" Margin="67,299,0,0" VerticalAlignment="Top" Width="115" AutomationProperties.HelpText="גינה" />
+        <ComboBox x:Name="cmbAttractions" Text="{Binding ChildrensAttractions}" HorizontalAlignment="Left" Height="29" Margin="66,340,0,0" VerticalAlignment="Top" Width="115" AutomationProperties.HelpText="אטרקציות"/>
+        <Label Content="אטרקציות לילדים" HorizontalAlignment="Left" Height="30" Margin="190,342,0,0" VerticalAlignment="Top" Width="99"/>
+        <Label Content="גינה" HorizontalAlignment="Left" Height="29" Margin="190,301,0,0" VerticalAlignment="Top" Width="83"/>
+        <Label Content="ג'קוזי" HorizontalAlignment="Left" Height="26" Margin="186,262,0,0" VerticalAlignment="Top" Width="87"/>
+        <Label Content="בריכה" HorizontalAlignment="Left" Height="30" Margin="189,229,0,0" VerticalAlignment="Top" Width="93"/>
+        <Label Content="הכנס פרטים:" HorizontalAlignment="Left" Height="29" Margin="395,10,0,0" VerticalAlignment="Top" Width="260" Foreground="#FF2440BF" FontWeight="Bold" FontSize="16"/>
+        <DatePicker Name="DateOfRelease" HorizontalAlignment="Left" DisplayDateStart="2020-01-01" DisplayDateEnd="2020-12-31" Height="21"  Margin="506,211,0,0" VerticalAlignment="Top" Width="115"/>
+        <Button x:Name="btnAdd" Content="הוסף" HorizontalAlignment="Left" Height="28" Margin="68,409,0,0" VerticalAlignment="Top" Width="173" Click="btnAdd_Click"/>
+        <Button x:Name="btnBack" Content="חזרה" HorizontalAlignment="Left" Height="25" Margin="10,468,0,0" VerticalAlignment="Top" Width="95" Click="BtnBack_Click"/>
+    </Grid>
+</Window>
+
+<!--, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true-->
+
+
+
+
+
+<!--
+        public Enums.GuestRequestStatus Status { get; set; }
+        public Enums.Area Area { get; set; }
+        public string SubArea { get; set; }//city
+        public Enums.Type Type { get; set; }
+        public uint Adults { get; set; }
+        public uint Children { get; set; }
+        public Enums.Pool Pool { get; set; }
+        public Enums.Jacuzzi Jacuzzi { get; set; }
+        public Enums.Garden Garden { get; set; }
+        public Enums.ChildrensAttractions ChildrensAttractions { get; set; }
+        public override string ToString()
+        {
+            return GuestRequestKey + " " + PrivateName;
+        }
+        public bool Wifi { get; set; }
+        public bool Cradle { get; set; }
+        public bool Breakfast { get; set; }-->

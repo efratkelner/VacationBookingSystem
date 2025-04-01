@@ -1,0 +1,67 @@
+﻿<Window x:Class="PLWPF.HostEntrance"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="אבטחה" Height="600" Width="300" Icon="/temps/icon.png" Background="#FFF3EAEA" SizeToContent="WidthAndHeight" WindowState="Maximized" FlowDirection="RightToLeft" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip">
+    <Grid x:Name="HostEntranceGrid" Margin="0,-21,2,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="57*"/>
+            <RowDefinition Height="73*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="temps/unnamed.png"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnEnter" Grid.ColumnSpan="5" Content="כניסה" HorizontalAlignment="Left" Height="41" Margin="134,244,0,0" VerticalAlignment="Top" Width="134" FontWeight="Bold" FontSize="16" IsEnabled="{Binding ElementName=cbRobotCheck,Mode=OneWay, Path=IsChecked}" Click="btnEnter_Click" Grid.Row="1">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.807"/>
+                    <GradientStop Color="#FFD5D5D5" Offset="0.237"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FF784141"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label Content="מספר זהות" HorizontalAlignment="Left" Height="32" Margin="85,46,0,0" VerticalAlignment="Top" Width="115" FontWeight="Bold" FontSize="16" Grid.Column="2"/>
+        <Label Content="סיסמא" HorizontalAlignment="Left" Height="43" Margin="85,142,0,0" VerticalAlignment="Top" Width="107" FontWeight="Bold" FontSize="16" Grid.Column="2"/>
+        <TextBox x:Name="txtUserID" Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="39" Margin="85,83,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="183" Foreground="#FF0C0404" TextChanged="TxtUserID_TextChanged" MaxLength="9">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.767"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <Label Content="בס&quot;ד" HorizontalAlignment="Left" Height="31" Margin="10,10,0,0" VerticalAlignment="Top" Width="50" Grid.Column="2" Background="{x:Null}"/>
+        <CheckBox x:Name="cbRobotCheck"  Grid.ColumnSpan="3" Content="אני לא רובוט" HorizontalAlignment="Left" Height="34" Margin="17,298,0,-1" VerticalAlignment="Top" Width="133" FontWeight="Bold" Grid.Row="1" RenderTransformOrigin="0.5,0.5">
+            <CheckBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.6"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </CheckBox.RenderTransform>
+            <CheckBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0.84"/>
+                </LinearGradientBrush>
+            </CheckBox.Background>
+        </CheckBox>
+
+        <PasswordBox Name ="pBox" Grid.ColumnSpan="3" MaxLength="6" PasswordChar="*"  HorizontalAlignment="Left" Height="41" Margin="85,190,0,0" VerticalAlignment="Top" Width="183" />
+        <Button Grid.ColumnSpan="3" Name="btnNew" Content="מארח חדש" Height="33" Margin="149,96,10,0" Grid.Row="1" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FF01040E" Click="BtnNew_Click" Background="#FF0A0909"/>
+
+    </Grid>
+</Window>

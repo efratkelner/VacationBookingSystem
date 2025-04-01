@@ -1,0 +1,30 @@
+﻿<Window x:Class="PLWPF.AllOrders"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="AllOrders" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="temps/unnamed.png"/>
+        </Grid.Background>
+        <ListView x:Name="lvOrders" HorizontalAlignment="Left" Height="344" Margin="10,65,0,0" VerticalAlignment="Top" Width="772" SelectionChanged="lvOrders_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="מספר יחידה" Width="130" DisplayMemberBinding="{Binding HostingUnitKey}" />
+                    <GridViewColumn Header="מספר בקשה" Width="130" DisplayMemberBinding="{Binding GuestRequestKey}" />
+                    <GridViewColumn Header="מספר הזמנה" Width="130" DisplayMemberBinding="{Binding OrderKey}" />
+                    <GridViewColumn Header="סטטוס" Width="130" DisplayMemberBinding="{Binding Status}" />
+                    <GridViewColumn Header="עמלה" Width="80" DisplayMemberBinding="{Binding commission}" />
+                    <GridViewColumn Header="מספר יחידה" Width="130" DisplayMemberBinding="{Binding HostingUnitKey}" />
+                    <GridViewColumn Header="תאריך יצירה" Width="150" DisplayMemberBinding="{Binding CreateDate}" />
+                    <GridViewColumn Header="תאריך" Width="150" DisplayMemberBinding="{Binding OrderDate}" />
+                 </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="הזמנות" FlowDirection="RightToLeft" HorizontalAlignment="Left" Height="40" Margin="304,20,0,0" VerticalAlignment="Top" Width="411" Foreground="#FF2110CB" FontWeight="Bold" FontSize="16"/>
+     
+    </Grid>
+</Window>

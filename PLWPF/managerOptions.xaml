@@ -1,0 +1,36 @@
+﻿<Window x:Class="PLWPF.managerOptions"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="Vacation4U - הנהלה" Height="450" Width="800" Icon="/temps/icon.png">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="temps/unnamed.png"/>
+        </Grid.Background>
+        <Label Content="בס&quot;ד" HorizontalAlignment="Left" Height="30" Margin="737,10,0,0" VerticalAlignment="Top" Width="45"/>
+        <Label Content="שינוי העמלה" HorizontalAlignment="Left" Height="38" Margin="621,69,0,0" VerticalAlignment="Top" Width="144" FontWeight="Bold"/>
+        <Button Content="שינוי" HorizontalAlignment="Left" Height="25" Margin="621,183,0,0" VerticalAlignment="Top" Width="89" Click="Button_Click" Background="#FF4616EC" Foreground="#FF0A0202" FontWeight="Bold"/>
+        <Label Content="עמלה נוכחית" HorizontalAlignment="Left" Height="25" Margin="682,112,0,0" VerticalAlignment="Top" Width="83" RenderTransformOrigin="1.653,0.551"/>
+        <Label Content="העלאת העמלה ב-" HorizontalAlignment="Left" Height="26" Margin="660,142,0,0" VerticalAlignment="Top" Width="122" RenderTransformOrigin="1.328,0.165"/>
+        <Label x:Name="lblCurCommission"  HorizontalAlignment="Left" Height="25" Margin="599,112,0,0" VerticalAlignment="Top" Width="54" Background="#FFDDD2D2"/>
+        <TextBox x:Name="txtNewCommission" HorizontalAlignment="Left" Height="25" Margin="601,151,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="52" Background="#FFE4D9D9" RenderTransformOrigin="2.954,-0.31">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.166"/>
+                    <TranslateTransform X="-0.057" Y="-0.398"/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Button x:Name="btnHosts" Content="מארחים" HorizontalAlignment="Left" Height="55" Margin="63,87,0,0" VerticalAlignment="Top" Width="203" Click="btnHosts_Click" Foreground="#FF3115E2" FontWeight="Bold" FontSize="14"/>
+        <Button x:Name="btnGuests" Content="בקשות אירוח" HorizontalAlignment="Left" Height="60" Margin="63,183,0,0" VerticalAlignment="Top" Width="203" Click="btnGuests_Click" Foreground="#FF2C10D8" FontSize="14" FontWeight="Bold"/>
+        <Button x:Name="btnrders" Content="הזמנות" HorizontalAlignment="Left" Height="63" Margin="63,282,0,0" VerticalAlignment="Top" Width="203" Foreground="#FF381DE0" FontWeight="Bold" FontSize="14" Click="btnrders_Click"/>
+        <Button x:Name="btnOthers" Content="אופציות נוספות" HorizontalAlignment="Left" Height="42" Margin="530,319,0,0" VerticalAlignment="Top" Width="235" Background="#FF1E15DC" Foreground="#FF0C0B0B" Click="BtnOthers_Click" FontWeight="Bold"/>
+        <Button Content="שינוי סיסמא" HorizontalAlignment="Left" Height="24" Margin="557,386,0,0" VerticalAlignment="Top" Width="171" FontWeight="Bold" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

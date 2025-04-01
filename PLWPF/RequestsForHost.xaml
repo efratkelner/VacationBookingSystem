@@ -1,0 +1,58 @@
+﻿<Window x:Class="PLWPF.RequestsForHost"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="RequestsForHost" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="temps/unnamed.png"/>
+        </Grid.Background>
+        <ListView HorizontalAlignment="Left" FlowDirection="RightToLeft" Name="lvGuestsRequests" Height="350" Margin="10,40,0,0" VerticalAlignment="Top" Width="759" PreviewMouseLeftButtonUp="LvGuestsRequests_PreviewMouseLeftButtonUp_1" SelectionChanged="lvGuestsRequests_SelectionChanged" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header=" " Width="20" DisplayMemberBinding="{Binding GuestRequestKey}" />
+                    <GridViewColumn Header="תאריך רישום למערכת" Width="150" DisplayMemberBinding="{Binding RegistrationDate}" />
+                    <GridViewColumn Header="תאריך תחילת האירוח " Width="150" DisplayMemberBinding="{Binding EntryDate}" />
+                    <GridViewColumn Header="תאריך סןף האירוח " Width="150" DisplayMemberBinding="{Binding ReleaseDate}" />
+                    <GridViewColumn Header="איזור" Width="130" DisplayMemberBinding="{Binding Area}"/>
+                    <GridViewColumn Header="תת איזור" Width="130" DisplayMemberBinding="{Binding SubArea}" />
+                    <GridViewColumn Header="מקום הנופש" Width="130" DisplayMemberBinding="{Binding Type}" />
+                    <GridViewColumn Header="מספר מבוגרים" Width="130" DisplayMemberBinding="{Binding Adults}" />
+                    <GridViewColumn Header="מספר ילדים" Width="130" DisplayMemberBinding="{Binding Children}" />
+                    <GridViewColumn Header="בריכה" Width="130" DisplayMemberBinding="{Binding Pool}" />
+                    <GridViewColumn Header="ג'קוזי" Width="130" DisplayMemberBinding="{Binding Jacuzzi}" />
+                    <GridViewColumn Header="גינה" Width="130" DisplayMemberBinding="{Binding Garden}" />
+                    <GridViewColumn Header="אטרקציות לילדים" Width="130" DisplayMemberBinding="{Binding ChildrensAttractions}" />
+                    <GridViewColumn Header="Wifi">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <CheckBox IsEnabled="False" IsChecked="{Binding Wifi}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="עגלה">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <CheckBox IsEnabled="False" IsChecked="{Binding Cradle}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="ארוחת בוקר">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <CheckBox IsEnabled="False" IsChecked="{Binding Breakfast}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="בקשות אירוח:" FlowDirection="RightToLeft" HorizontalAlignment="Left" Height="27" Margin="396,8,0,0" VerticalAlignment="Top" Width="337" FontWeight="Bold" FontSize="16" Foreground="#FF244DD6"/>
+        <ComboBox HorizontalAlignment="Left" Name="cmbHU" Height="25" Margin="9,10,0,0" VerticalAlignment="Top" Width="176" SelectionChanged="CmbHU_SelectionChanged"/>
+        <Label Content="יחידת אירוח להצעה" HorizontalAlignment="Left" Height="25" Margin="200,10,0,0" VerticalAlignment="Top" Width="138"/>
+
+    </Grid>
+</Window>

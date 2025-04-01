@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGuestRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GuestRequest>
+    <GuestRequestKey>3</GuestRequestKey>
+    <PrivateName>רחלי</PrivateName>
+    <FamilyName>בלוך</FamilyName>
+    <MailAddress>rachelib427@gmail.com</MailAddress>
+    <Status>פתוחה</Status>
+    <RegistrationDate>0001-01-01T00:00:00</RegistrationDate>
+    <EntryDate>2020-02-12T00:00:00</EntryDate>
+    <ReleaseDate>2020-02-14T00:00:00</ReleaseDate>
+    <Area>צפון</Area>
+    <SubArea>מטולה</SubArea>
+    <Type>חדר_מלון</Type>
+    <Adults>2</Adults>
+    <Children>2</Children>
+    <Pool>אפשרי</Pool>
+    <Jacuzzi>אפשרי</Jacuzzi>
+    <Garden>נחוץ</Garden>
+    <Cradle>false</Cradle>
+    <Wifi>true</Wifi>
+    <ChildrensAttractions>נחוץ</ChildrensAttractions>
+    <Breakfast>false</Breakfast>
+  </GuestRequest>
+</ArrayOfGuestRequest>

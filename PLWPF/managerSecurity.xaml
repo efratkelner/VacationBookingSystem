@@ -1,0 +1,34 @@
+﻿<Window x:Class="PLWPF.managerSecurity"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="אבטחה" Height="400" Width="300" Icon="/temps/icon.png">
+    <Grid x:Name="managerSecurityGrid">
+        <Grid.Background>
+            <ImageBrush ImageSource="temps/unnamed.png"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="77*"/>
+            <ColumnDefinition Width="215*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnEnter" Content="כניסה" HorizontalAlignment="Left" Height="45" Margin="12,314,0,0" VerticalAlignment="Top" Width="153" Grid.Column="2"  Click="BtnEnter_Click_1" Grid.ColumnSpan="2" FontWeight="Bold" RenderTransformOrigin="0.478,1.254">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.877"/>
+                    <GradientStop Color="#FE222222"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblPassword" Content="סיסמא" HorizontalAlignment="Left" Height="28" Margin="12,73,0,0" VerticalAlignment="Top" Width="76" Grid.Column="3" FontWeight="Bold" FontSize="16"/>
+        <Label x:Name="__" Content="בס&quot;ד" HorizontalAlignment="Left" Height="28" Margin="632,10,-455,0" VerticalAlignment="Top" Width="38" Grid.Column="3"/>
+        <PasswordBox Name ="pBox" Grid.Column="2"  MaxLength="5" PasswordChar="*" HorizontalAlignment="Left" Height="60" Margin="29,124,0,0" VerticalAlignment="Top" Width="187" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
+
